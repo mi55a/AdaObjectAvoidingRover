@@ -5,3 +5,4 @@ Credit to user robsoncouto for the music code, here's the link: https://github.c
 
 - Will add comments for clarity!
 - You can change the melody to which ever song you want. I'll add the code when your melody is accompanied by durations!
+- Arduino and circuit simulator in progress
